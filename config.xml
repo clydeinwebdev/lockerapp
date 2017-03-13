@@ -10,7 +10,7 @@
     <author href="https://github.com/clydeinwebdev/lockerapp" email="clydeinwebdev@gmail.com">
         clydeinwebdev
     </author>
-    <preference name="phonegap-version" value="2.3.6" />
+    <!-- <preference name="phonegap-version" value="2.3.6" /> -->
     <icon src="decode.png" />
     <icon src="android/android-icon-36x36.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="android/android-icon-48x48.png"   gap:platform="android"    gap:qualifier="mdpi" />
