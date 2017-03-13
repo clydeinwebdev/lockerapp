@@ -223,7 +223,7 @@ class Component extends App{
 			<div class="row">
 				<div class="col s12">
 					<ul class="tabs">
-						<li class="tab col s3"><a class="active" href="#page1"><i class="material-icons">home</i></a></li>
+						<li class="tab col s3"><a class="active" href="#page1"><i class="material-icons">&#xE88A;</i></a></li>
 						<li class="tab col s3"><a href="#page2"><i class="material-icons">home</i></a></li>
 						<li class="tab col s3"><a href="#page3"><i class="material-icons">home</i></a></li>
 						<li class="tab col s3 disabled"><a href="#page4" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a></li>
