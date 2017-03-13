@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.lockerapp"
+        version   = "1.0.0">
+	<name>LockerApp</name>
+    <description>
+        A sample Hybrid App Demo for mobile programming.
+    </description>	
+    <author href="https://github.com/clydeinwebdev/lockerapp" email="clydeinwebdev@gmail.com">
+        clydeinwebdev
+    </author>
+    <preference name="phonegap-version" value="2.3.6" />
+    <icon src="decode.png" />
+    <icon src="android/android-icon-36x36.png"   gap:platform="android"    gap:qualifier="ldpi" />
+    <icon src="android/android-icon-48x48.png"   gap:platform="android"    gap:qualifier="mdpi" />
+    <icon src="android/android-icon-72x72.png"   gap:platform="android"    gap:qualifier="hdpi" />
+    <icon src="android/android-icon-96x96.png"   gap:platform="android"    gap:qualifier="xhdpi"/>    
+</widget>

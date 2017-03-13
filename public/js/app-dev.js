@@ -377,8 +377,8 @@ class Component extends App{
 }
 
 let component = new Component();
-// component.loginPage();		
-component.studentDashboard();
+component.loginPage();		
+// component.studentDashboard();
 
 
 
