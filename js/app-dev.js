@@ -250,7 +250,7 @@ class Component extends App{
 					<a href="#!name"><span class="white-text name">${this.settings.current_user.firstname}</span></a>
 					<a href="#!email"><span class="white-text email">${this.settings.current_user.usn}</span></a>
 				</div></li>
-				<li><a href="#!"><i class="material-icons">cloud</i>First Link With Icon</a></li>
+				<li><a href="#!"><i class="material-icons">&#xE88A;</i>First Link With Icon</a></li>
 				<li><a href="#!">Second Link</a></li>
 				<li><div class="divider"></div></li>
 				<li><a class="subheader">Subheader</a></li>
