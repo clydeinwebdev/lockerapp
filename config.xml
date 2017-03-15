@@ -11,11 +11,11 @@
         clydeinwebdev
     </author>
     <!-- <preference name="phonegap-version" value="2.3.6" /> -->
-    <icon src="decode.png" />
-    <icon src="android-icon-36x36.png"      gap:platform="android"    gap:qualifier="ldpi" />
-    <icon src="android-icon-48x48.png"      gap:platform="android"    gap:qualifier="mdpi" />
-    <icon src="android-icon-72x72.png"      gap:platform="android"    gap:qualifier="hdpi" />
-    <icon src="android-icon-96x96.png"      gap:platform="android"    gap:qualifier="xhdpi"/>    
-    <icon src="android-icon-144x144.png"    gap:platform="android"    gap:qualifier="xhdpi"/>    
-    <icon src="android-icon-192x192.png"    gap:platform="android"    gap:qualifier="xhdpi"/>    
+    <icon src="img/decode.png" />
+    <icon src="img/android-icon-36x36.png"      gap:platform="android"    gap:qualifier="ldpi" />
+    <icon src="img/android-icon-48x48.png"      gap:platform="android"    gap:qualifier="mdpi" />
+    <icon src="img/android-icon-72x72.png"      gap:platform="android"    gap:qualifier="hdpi" />
+    <icon src="img/android-icon-96x96.png"      gap:platform="android"    gap:qualifier="xhdpi"/>    
+    <icon src="img/android-icon-144x144.png"    gap:platform="android"    gap:qualifier="xhdpi"/>    
+    <icon src="img/android-icon-192x192.png"    gap:platform="android"    gap:qualifier="xhdpi"/>    
 </widget>
